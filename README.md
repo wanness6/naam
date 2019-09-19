@@ -1,4 +1,4 @@
 # naam
-repo
-ezae
-zaeaez
+GG
+Easy
+NOOBS
