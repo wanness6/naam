@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp1
 {
@@ -8,7 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("TEST GIT");
-            Console.WriteLine("LOGGED IN INTO GIT");
+            Console.WriteLine("hertgrtvre");
+            
         }
     }
 }
