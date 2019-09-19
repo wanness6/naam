@@ -7,5 +7,6 @@ namespace ConsoleApp1
     class TEst
     {
         Console.WriteLine("");
+            Console.WriteLine(  "");
     }
 }
