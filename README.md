@@ -1,4 +1,1 @@
-# naam
-repo
-ezae
-zaeaez
+# Ik ben Wannes en ben bisexueel.
