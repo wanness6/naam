@@ -1,4 +1,1 @@
-# naam
-GG
-Easy
-NOOBS
+# Ik ben Wannes en ben bisexueel.
